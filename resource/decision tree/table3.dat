@@ -1,0 +1,11 @@
+Height,Dexterity,Fitness,Isplayer
+tall,good,veryfit,y
+short,bad,unfit,n
+tall,bad,fit,n
+short,bad,unfit,n
+tall,good,fit,n
+short,good,unfit,n
+tall,bad,veryfit,n
+short,bad,fit,n
+short,good,veryfit,y
+short,bad,veryfit,n
